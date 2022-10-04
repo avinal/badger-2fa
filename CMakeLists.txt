@@ -2,7 +2,7 @@
 cmake_minimum_required(VERSION 3.20)
 
 # Change your executable name to something creative!
-set(NAME badger-project)
+set(NAME badger-2fa)
 
 # include the dependencies
 include(pimoroni_pico_import.cmake)
@@ -19,6 +19,6 @@ add_subdirectory(pimoroni-pico)
 # add_subdirectory(<dependency-directory-name>) # <- add more dependencies like this
 
 # add the project as a subdirectory after bootstrapping
-add_subdirectory(programexample)
+add_subdirectory(otpgen)
 # add_subdirectory(<program-directory-name>) # <- add more programs like this
 
