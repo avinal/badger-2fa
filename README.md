@@ -1,6 +1,6 @@
-# Badger 2040 C++ Boilerplate Project
+# Badger 2040 2 Factor Authanticator TOTP/HOTP
 
-This repository extends the [boilerplate](https://github.com/pimoroni/pico-boilerplate) project created by Pimoroni specifically to be used as a boilerplate for Badger 2040 C++ projects.
+TOTP/HOTP implementation for Badger 2040.
 
 ## Prerequisite
 
